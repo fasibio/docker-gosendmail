@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/fasibio/goSendMail/properties"
+	"github.com/fasibio/docker-gosendmail/properties"
 	gomail "gopkg.in/gomail.v2"
 )
 
